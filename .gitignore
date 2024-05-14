@@ -1,0 +1,18 @@
+# Compiled files
+/target/
+
+# Dependency directories
+Cargo.lock
+Cargo.toml.orig
+Cargo.toml.bkp
+
+# Build artifacts
+*.rs.bk
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# Generated files
+*.exe
+*.pdb

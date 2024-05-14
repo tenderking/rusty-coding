@@ -1,0 +1,12 @@
+[package]
+name = "rusty_coding"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+
+[dependencies]
+
+[[bin]]
+name = "compare_triplets"
+path = "src/compare_triplets.rs"
